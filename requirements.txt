@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy==1.21.6  # Ensure this version matches the one you installed manually
+plotly
+openai
+scikit-learn
